@@ -1,0 +1,1 @@
+Konfigurationsfiler för emacs
